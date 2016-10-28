@@ -5,3 +5,4 @@ De Registrator registreert kinderen bij DJO
  * RFID pasjes/druppels
  * Naam intypen
  * Vinger afdruk
+ * code bijv:13002
