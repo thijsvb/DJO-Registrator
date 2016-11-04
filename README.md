@@ -21,3 +21,5 @@ De Registrator registreert kinderen bij DJO
   - Raken kwijt, vergeten, kapot, steeds nieuwe nodig
  * QR code tattoeage
   - permanent
+
+nieuw idee:wacom handtekening
