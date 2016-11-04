@@ -23,3 +23,4 @@ De Registrator registreert kinderen bij DJO
   - permanent
 
 nieuw idee:wacom handtekening
+ik moet beter kijken of het mogelijk is maar het lijkt dat het mogelijk is
