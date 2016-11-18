@@ -8,7 +8,8 @@ De Registrator registreert kinderen bij DJO
   - Werkt niet bij pleisters of iets dergelijks, makkelijk breekbaar
  * code bijv:13002
   - code vergeten
-
+ * Handtekening met tekentablet
+  - kan aan Arduino?
   
 ###Afgevallen ideeen:
  * iris scan
@@ -22,5 +23,3 @@ De Registrator registreert kinderen bij DJO
  * QR code tattoeage
   - permanent
 
-nieuw idee:wacom handtekening
-ik moet beter kijken of het mogelijk is maar het lijkt dat het mogelijk is
