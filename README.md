@@ -9,7 +9,7 @@ De Registrator registreert kinderen bij DJO
  * code bijv:13002
   - code vergeten
  * Handtekening met tekentablet
-  - kan aan Arduino?
+  - kan aan Arduino?, vergeten of nog niet
   
 ###Afgevallen ideeen:
  * iris scan
