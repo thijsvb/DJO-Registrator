@@ -1,9 +1,11 @@
 # DJO-Registrator
 De Registrator registreert kinderen bij DJO
 
-###Ideeen:
- * Naam intypen
-  - Selecteer eerst de eerste letter, dan de naam, bij dezelfde namen ook geboortedatum
+###Idee
+Naam machine
+**Hoe werkt het?** 
+
+Selecteer eerst de eerste letter, dan de naam, bij dezelfde namen ook geboortedatum
   
 ###Afgevallen ideeen:
  * Vinger afdruk
