@@ -1,7 +1,7 @@
 # DJO-Registrator
 De Registrator registreert kinderen bij DJO
 
-###Idee
+### Idee
 Naam machine
 
 **Hoe werkt het?** 
@@ -10,7 +10,7 @@ Selecteer eerst de eerste letter, dan de naam, bij dezelfde namen ook geboorteda
 
 Zie hier een overzicht van de [hardware](hardware.md) en de [software](software.md).
   
-###Afgevallen ideeen:
+### Afgevallen ideeen:
  * Vinger afdruk
   - Werkt niet bij pleisters of iets dergelijks, makkelijk breekbaar
  * code bijv:13002
