@@ -11,7 +11,7 @@ Selecteer eerst de eerste letter, dan de naam, bij dezelfde namen ook geboorteda
 Zie hier een overzicht van de [hardware](hardware.md) en de [software](software.md).
 [hardware](hardware.md)
 Rotary Encoder
-
+~hardware~
   
 ### Afgevallen ideeen:
  * Vinger afdruk
