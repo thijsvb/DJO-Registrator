@@ -2,7 +2,7 @@
 De Registrator registreert kinderen bij DJO
 
 ### Idee
-zoekert
+Zoekert
 
 **Hoe werkt het?** 
 
