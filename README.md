@@ -9,9 +9,9 @@ Naam machine
 Selecteer eerst de eerste letter, dan de naam, bij dezelfde namen ook geboortedatum.
 
 Zie hier een overzicht van de [hardware](hardware.md) en de [software](software.md).
-[hardware](hardware.md)
+### hardware
 Rotary Encoder
-*hardware*
+
   
 ### Afgevallen ideeen:
  * Vinger afdruk
