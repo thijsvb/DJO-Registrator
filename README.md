@@ -2,7 +2,7 @@
 De Registrator registreert kinderen bij DJO
 
 ### Idee
-Naam machine
+zoekert
 
 **Hoe werkt het?** 
 
